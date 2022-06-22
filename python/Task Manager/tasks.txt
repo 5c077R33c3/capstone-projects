@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10/10/2022, 20/10/2022, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10/10/2022, 25/10/2022, Yes
+john, inventory, count all stock for sale, 07/04/2022, 08/04/2022, No
+matthew, supervising john, double check johns work, 08/04/2022, 14/04/2022, No
+luke, administration, file invoices for march, 05/04/2022, 24/04/2022, No
+mark, advertising, hand out fliers at the busiest intersection, 06/04/2022, 24/04/2022, No
+james, weather checking, find the probability of is raining on thursday, 06/04/2022, 14/04/2022, No

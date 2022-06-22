@@ -1,0 +1,45 @@
+As of 28/04/2022
+Registered users : 6
+Total tasks      : 7
+
+admin
+Number of tasks  : 2
+% Of total tasks : 28.57142857142857
+% Completed      : 100.0
+% Incompleted    : 0.0
+% Overdue        : 0.0
+
+john
+Number of tasks  : 1
+% Of total tasks : 14.285714285714285
+% Completed      : 0.0
+% Incompleted    : 100.0
+% Overdue        : 100.0
+
+mark
+Number of tasks  : 1
+% Of total tasks : 14.285714285714285
+% Completed      : 0.0
+% Incompleted    : 100.0
+% Overdue        : 100.0
+
+james
+Number of tasks  : 1
+% Of total tasks : 14.285714285714285
+% Completed      : 0.0
+% Incompleted    : 100.0
+% Overdue        : 100.0
+
+luke
+Number of tasks  : 1
+% Of total tasks : 14.285714285714285
+% Completed      : 0.0
+% Incompleted    : 100.0
+% Overdue        : 100.0
+
+matthew
+Number of tasks  : 1
+% Of total tasks : 14.285714285714285
+% Completed      : 0.0
+% Incompleted    : 100.0
+% Overdue        : 100.0

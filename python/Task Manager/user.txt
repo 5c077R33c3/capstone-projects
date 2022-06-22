@@ -1,0 +1,6 @@
+admin, adm1n
+john, j0hn
+mark, m@rk
+james, jame5
+luke, luk3
+matthew, m@tthew
